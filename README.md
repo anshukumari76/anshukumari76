@@ -4,7 +4,7 @@
 ## 🚀 About Me
 - 🎓 B.Tech IT from MAKAUT  
 - 🌱 Currently focusing on **Java, SQL, DBMS**
-- 🧠 Preparing for **TCS Ninja & Fresher IT Roles**
+- 🧠 Preparing for **Fresher IT & Data Analyst Roles**
 - 💡 Interested in Backend Development & Databases
 - 🌐 Portfolio: https://portfolioanshukumari.netlify.app/
 
