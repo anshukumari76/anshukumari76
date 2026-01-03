@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Anshu Kumari 👋  
+💻 B.Tech Information Technology Student | Aspiring Software Engineer  
 
-<!--
-**anshukumari76/anshukumari76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 B.Tech IT from MAKAUT  
+- 🌱 Currently focusing on **Java, SQL, DBMS**
+- 🧠 Preparing for **TCS Ninja & Fresher IT Roles**
+- 💡 Interested in Backend Development & Databases
+- 🌐 Portfolio: https://portfolioanshukumari.netlify.app/
 
-Here are some ideas to get you started:
+## 🛠️ Technical Skills
+- **Languages:** Java, SQL, JavaScript  
+- **Frontend:** HTML, CSS  
+- **Database:** MySQL  
+- **Core Concepts:** OOP, DBMS  
+- **Tools:** Git, GitHub, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+### 🕒 Flip Clock – Java Swing
+- Desktop flip clock application using Java Swing  
+- Concepts used: OOP, Event Handling  
+🔗 Repository: https://github.com/anshukumari76/Flip-Clock
+
+### 🌍 Travel India Website
+- Responsive travel website built with HTML, CSS & JavaScript  
+🔗 Live Demo: https://portfolioanshukumari.netlify.app/
+
+## 📊 GitHub Stats
+![Anshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshukumari76&show_icons=true)
+
+## 🤝 Connect With Me
+- LinkedIn: (https://www.linkedin.com/in/anshukumari76)
