@@ -19,7 +19,7 @@
 ### 🕒 Flip Clock – Java Swing
 - Desktop flip clock application using Java Swing  
 - Concepts used: OOP, Event Handling  
-🔗 Repository: https://github.com/anshukumari76/Flip-Clock
+🔗 Repository: (https://github.com/anshukumari76/Flip-Clock-in-Java-Swing-)
 
 ### 🌍 Travel India Website
 - Responsive travel website built with HTML, CSS & JavaScript  
