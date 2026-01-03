@@ -26,7 +26,7 @@
 🔗 Live Demo: https://portfolioanshukumari.netlify.app/
 
 ## 📊 GitHub Stats
-![Anshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshukumari76&show_icons=true)
+![Anshu's GitHub Stats](https://your-project-name.vercel.app/api?username=anshukumar76&show_icons=true)
 
 ## 🤝 Connect With Me
 - LinkedIn: (https://www.linkedin.com/in/anshukumari76)
